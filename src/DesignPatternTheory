@@ -17,3 +17,6 @@ Categorization of design pattern
                  a> Observer
                  b> State
                  c> Iterator
+Singleton Design Pattern
+--------------------------
+Used for creating object only once and can be reused again and again .
