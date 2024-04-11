@@ -20,3 +20,8 @@ Categorization of design pattern
 Singleton Design Pattern
 --------------------------
 Used for creating object only once and can be reused again and again .
+
+
+
+
+Abstract Design Pattern : This is also used for object creation but this design pattern just has one more layer, which adds one more layer for object creation
